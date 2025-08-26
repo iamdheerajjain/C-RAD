@@ -49,6 +49,5 @@ A deep learning-based system that detects accidents from video footage and sends
 ---
 
 ## 📸 Screenshots:
-![Grafana Screenshot](grafana/Dashboard.png)
+!(grafana/Dashboard.png)
 ---
-
