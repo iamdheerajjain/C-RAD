@@ -11,7 +11,7 @@ A deep learning-based system that detects accidents from video footage and sends
 - 🌐 **Geolocation detection using IP-based coordinates**
 - 📩 **Instant SMS alert via Twilio API**
 - 📊 **Visual feedback using OpenCV frame overlay**
-
+  
 ---
 
 ## 🎯 How It Works
